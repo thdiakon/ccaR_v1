@@ -1,10 +1,10 @@
 Package: ccaR
 Type: Package
-Title: Calculates the corrected covered area (CCA) index
+Title: Calculates the Corrected Covered Area (CCA) Index
 Version: 0.1.0
 Author: Theodoros Diakonidis, Konstantinos Bougioukas
 Maintainer: Theodoros Diakonidis <diakonidis@auth.gr>
-Description: Calculates the corrected covered area CCA. The measure for assessing the overall degree of overlap in an OoSR.
+Description: Calculates the Corrected Covered Area CCA. The measure for assessing the overall degree of overlap in an OOSR.
 License: GPL-2
 Encoding: UTF-8
 LazyData: FALSE
